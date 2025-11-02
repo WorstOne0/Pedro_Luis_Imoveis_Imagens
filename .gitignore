@@ -7,3 +7,7 @@
 
 # production
 /build
+
+/public
+./public
+public
